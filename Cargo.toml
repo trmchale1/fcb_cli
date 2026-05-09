@@ -1,0 +1,10 @@
+[package]
+name = "fcb_cli"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serialport = "4.7"
+msp_protocol = "0.1"
+tokio = { version = "1", features = ["full"] }
+crossterm = { version = "0.28", features = ["event-stream"] }
