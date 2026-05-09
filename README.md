@@ -1,7 +1,7 @@
 # fcb_cli
 
-## When running `cargo run --bin dashboard`
-
+## When running cargo run --bin dashboard
+```
 🚁 HUMMINGBIRD AIO255 STATUS DASHBOARD
 ═══════════════════════════════════════
 Board     : HUMMINGBIRD_AIO255_AT32F435
@@ -14,8 +14,9 @@ Uptime    : 7879 seconds
 I2C Errors: 9
 
 Status    : ⚠️  Check I2C
+```
 
-## When running `cargo run --bin fcb_cli`
+## When running cargo run --bin fcb_cli
 
 ### Press Enter several times, type commands when you reach the # character
 
