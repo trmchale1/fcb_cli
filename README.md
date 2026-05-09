@@ -17,6 +17,8 @@ I2C Errors: 9
 
 Status    : ⚠️  Check I2C
 ```
+<img width="601" height="310" alt="dashboard_airflight_control_board_png" src="https://github.com/user-attachments/assets/d8e62c1d-a010-418d-a2f4-0be54a009234" />
+
 
 ## When running 
 
